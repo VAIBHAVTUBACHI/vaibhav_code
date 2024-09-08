@@ -1,8 +1,9 @@
 #include<stdio.h>
 int main()
+{
   while(1)
   {
-    printf("hello\n)
+    printf("hello\n");
     return -1;
     }
 }
